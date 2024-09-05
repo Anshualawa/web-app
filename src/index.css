@@ -1,0 +1,4 @@
+@import '@fontsource/space-mono'; /* Defaults to weight 400 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
