@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <>
       <div className="px-2 py-2 md:px-6 md:py-10">
-        <h1 className="text-2xl font-bold capitalize text-black lg:text-3xl">
+        <h1 className="font-pacifico text-2xl font-bold capitalize text-black lg:text-3xl">
           DevUI Makes Your Work Easier
         </h1>
         <p className="my-2 text-gray-600">
